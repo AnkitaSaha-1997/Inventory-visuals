@@ -30,10 +30,6 @@ This project demonstrates how to analyze the relationship between **product dema
 - No need to rebuild Power BI visuals during transitions
 - Visual insight into gaps and trends between inventory & demand
 
-## 📷 Dashboard Preview
-*Below is a screenshot of the Power BI dashboard created as part of this project.*
-
-![Dashboard Screenshot](dashboard1.png) <!-- Replace with actual screenshot file name -->
 
 ## 📁 Files Included
 - `InventoryDashboard.pbix` – Power BI dashboard file
